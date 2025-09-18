@@ -9,9 +9,11 @@ Saya Zharfan Faza Wibawa dengan NIM 2403995 mengerjakan Tugas Praktikum 1 dalam 
 ## :gear: Deskripsi Program  
 Pada program ini saya membuat data dari sebuah toko laptop dengan beberapa fitur yaitu:
 
-- Tambah data (Add)
-<br>
-![Add](dokumentasi/add.png)
+## Tambah data (Add)
+<p align="left">
+  <img src="images/add.png" alt="Add Screenshot" width="400">
+</p>
+
 
 - Tampilkan data (Show)
 <br>
