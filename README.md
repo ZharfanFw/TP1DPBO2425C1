@@ -21,13 +21,13 @@ Pada program ini saya membuat data dari sebuah toko laptop dengan beberapa fitur
 
 ## :file_folder: Dokumentasi Program
 CPP : 
-![CPP]{dokumentasi/cpp.png}
+![CPP](dokumentasi/cpp.png)
 
 Java :
-![Java]{dokumentasi/java.png}
+![Java](dokumentasi/java.png)
 
 Python : 
-![Python]{dokumentasi/python.png}
+![Python](dokumentasi/python.png)
 
 PHP :
-![PHP]{dokumentasi/php.png}
+![PHP](dokumentasi/php.png)
