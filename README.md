@@ -1,6 +1,6 @@
 # TP1DPBO2425C1
 
-Nama: Zharfan Faza Wibawa
+Nama: Zharfan Faza Wibawa;
 NIM: 2403995
 
 ---
@@ -10,14 +10,16 @@ Saya Zharfan Faza Wibawa dengan NIM 2403995 mengerjakan Tugas Praktikum 1 dalam 
 ---
 
 ## :gear: Deskripsi Program  
-Program ini di dalam folder `cpp/` berisi kode C++ yang mengelola [jelaskan domainnya: data barang / hewan peliharaan / dll.] dengan fitur-fitur:
+Pada program ini saya membuat data dari sebuah toko laptop dengan beberapa fitur yaitu:
 
-- Tambah data (Add)  
-- Edit data  
-- Hapus data (Delete)  
-- Cari berdasarkan nama (Search by name)  
-- Tampilkan semua data (List all data)  
+- Tambah data (Add) 
+
+
+- Tampilkan data (Show)
+- Ubah Data (Update)  
+- Hapus Data (Delete)  
+- Cari Data (Search by ID)  
 
 ---
 
-## :file_folder: Struktur Proyek  
+## :file_folder: Dokumentasi Program  
